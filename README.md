@@ -1,5 +1,7 @@
 # React + Vite
 
+# 깃허브 세션 수정 중
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
