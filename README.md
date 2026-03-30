@@ -1,6 +1,6 @@
 # React + Vite
 
-# 깃허브 세션 수정 중
+# 깃허브 세션 수정 중 브랜치 합쳐보기
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
